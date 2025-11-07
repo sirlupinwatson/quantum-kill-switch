@@ -88,10 +88,11 @@ For easy copy-pasting, you can use the following BibTeX entry:
 
 ### Proof
 
-"Any attempt to extract phase information without the correct inverse transform results in complete randomization of the conjugate basis."
-HAL thesis tel-04356483, §9.21
+"Any attempt to extract phase information without the correct inverse transform results in complete randomization of the conjugate basis." 
 
-...We weaponized that line.
+*HAL thesis tel-04356483, §9.21*
+
+**...We weaponized that line.**
 
 ### License
 
