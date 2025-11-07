@@ -77,7 +77,7 @@ Sirlupinwatson. (2025). *Quantum Kill Switch: A 192-qubit Self-Destructing Chann
 For easy copy-pasting, you can use the following BibTeX entry:
 
 ```bibtex
-@misc{scryptoons2025killswitch,
+@misc{sirlupinwatson2025killswitch,
   author    = {Sirlupinwatson},
   title     = {Quantum Kill Switch: A 192-qubit Self-Destructing Channel},
   year      = {2025},
