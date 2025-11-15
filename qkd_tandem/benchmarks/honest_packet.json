@@ -1,0 +1,21 @@
+{
+  "qks_version": "0.2.0-trielliptic",
+  "metadata_b64": "eyJ0aW1lc3RhbXAiOiAiMjAyNS0xMS0xNVQwNjoyMDowNC40MzMwMzcrMDA6MDAiLCAicm91dGUiOiBbImFsaWNlIiwgImhvbmVzdC1yZWxheSIsICJib2IiXX0=",
+  "packet_id": "qks-2025-11-15T06:20:04Z-afffe39f",
+  "timestamp": "2025-11-15T06:20:04.434684+00:00",
+  "route": [
+    "alice",
+    "honest-relay",
+    "bob"
+  ],
+  "trielliptic_commit": {
+    "qkd_root": "256:8c2e2eaa418df37c86d17c1127a38786300134ca3a09a2669f90cf06a41a88f1",
+    "charly_marker": "128:00000000000000000000000000000000",
+    "final_binding": "384:f5a4ac27f5a4fabe49ad5ff57e251ebd1ba85526fdd83edb11cfade877063c5951800e896af4b56676073a8f10fdf4b0"
+  },
+  "payload_commit": "sha3-256:c2b672f8c5a02dd2106579f4ec252df061c345ae7ac39fa1b679efbd135fc8df",
+  "payload_ciphertext_b64": "v99NQG3HnW3xU4/XC3ttM2ZfDk3f0m0+wNkb4Qq/foN/kN+BPr5x8pQ0XSUH31TcRdwDUJBHug==",
+  "proof": null,
+  "self_destruct_trigger": null,
+  "signature": null
+}

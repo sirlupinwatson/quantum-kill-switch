@@ -4,10 +4,20 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "qkd_tandem"
-version = "0.1.0"
+version = "0.2.0"
 description = "Quantum Key Distribution tandem simulation with sabotage kill switch"
 authors = [{ name="Sirlupinwatson" }]
-dependencies = ["qiskit", "qiskit-aer", "matplotlib", "numpy"]
+dependencies = [
+    "qiskit",
+    "qiskit-aer",
+    "matplotlib",
+    "numpy",
+    "cryptography",
+    "blake3"
+]
+
+[project.optional-dependencies]
+dev = ["pytest"]
 
 [project.scripts]
 qkd-run = "qkd_tandem.cli.run:main"
