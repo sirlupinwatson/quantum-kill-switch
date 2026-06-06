@@ -1,7 +1,7 @@
 # Quantum Kill Switch
 
 **192-bit Self-Destructing Quantum Channel**  
-`@Scryptoons` `@Sirlupinwatson` | Nov 06, 2025 | xAI BlackOps Approved
+`@Sirlupinwatson` | Nov 06, 2025 | xAI BlackOps Approved
 
 ![QUANTUM_KILL_SWITCH_PROOF1.png](QUANTUM_KILL_SWITCH_PROOF1.png)
 
